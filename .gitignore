@@ -15,6 +15,13 @@
 *.sublime-workspace
 *.png
 
+# RPG Tutorial Assets
+[Aa]ssets/Creator Kit - RPG/
+[Aa]ssets/Gizmos/
+[Aa]ssets/TextMesh Pro/
+[Aa]ssets/Misc/
+[Aa]ssets/TutorialInfo/
+
 # Asset meta data should only be ignored when the corresponding asset is also ignored
 !/[Aa]ssets/**/*.meta
 
